@@ -225,8 +225,8 @@ wrong_hash_message: 不好意思，信息无法验证！
         clientSecret: '79c7c9cb847e141757d7864453bcbf89f0655b24',
         id: '666666',
         repo: 'issue_database',
-        owner: 'removeif',
-        admin: "removeif",
+        owner: 'iamshen',
+        admin: "iamshen",
         createIssueManually: true,
         distractionFreeMode: false
     })

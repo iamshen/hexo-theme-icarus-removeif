@@ -324,8 +324,8 @@ comment:
 #    shortname: ''
     owner: iamshen         # (required) GitHub user name
     repo: blog_comment          # (required) GitHub repository name
-    client_id: b043237f3b54b6ba3e8b     # (required) OAuth application client id
-    client_secret: bffcad3867fd3b9a6fc3bf6a309c49984e600722 # (required) OAuth application client secret
+    client_id: 8700c2cb4740bb0284bd     # (required) OAuth application client id
+    client_secret: 1f1a7cfeab8e2b6123a1c5c122bcf20cc5bb612a # (required) OAuth application client secret
     admin: ['iamshen']
     create_issue_manually: true
     distraction_free_mode: false

@@ -103,8 +103,9 @@ theme: amazing
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
-  type: ''
-
+  type: git
+  repo: https://github.com/iamshen/iamshen.github.com.git
+  branch: master
 feed:
   type: atom
   path: atom.xml
